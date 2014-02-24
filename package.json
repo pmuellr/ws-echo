@@ -1,0 +1,16 @@
+{
+    "name":                 "ws-echo",
+    "main":                 "./lib/main",
+    "description":          "WebSocket echo server",
+    "author":               "pmuellr",
+    "version":              "0.1.0",
+    "homepage":             "https://github.com/pmuellr/ws-echo",
+    "repository":           {"type": "git", "url": "git://github.com/pmuellr/ws-echo" },
+    "dependencies": {
+        "express":          "3.4.x",
+        "websocket":        "1.0.x"
+    },
+    "devDependencies": {
+        "coffee-script":    "1.7.x"
+    }
+}
