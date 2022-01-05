@@ -1,5 +1,5 @@
 // Licensed under the Apache License. See footer for details.
-
+require('dotenv').config();
 require("./lib/server").main()
 
 //------------------------------------------------------------------------------
